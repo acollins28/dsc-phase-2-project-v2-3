@@ -50,14 +50,14 @@ I would also like to run an analysis that included more detailed information abo
 
 For a more detailed breakdown, you can review the notebook [here](https://github.com/acollins28/dsc-phase-2-project-v2-3/blob/main/Notebook.ipynb).
 
-You can also view the presentation slides [here](https://github.com/acollins28/dsc-phase-2-project-v2-3/blob/main/Presentation.pptx).
+You can also view the presentation slides [here](https://github.com/acollins28/dsc-phase-2-project-v2-3/blob/main/Presentation.pdf).
 
 ## Repository Structure
 
 [Images](https://github.com/acollins28/dsc-phase-2-project-v2-3/tree/main/Images) <br>
 [Data](https://github.com/acollins28/dsc-phase-2-project-v2-3/tree/main/data) <br>
 [Notebook](https://github.com/acollins28/dsc-phase-2-project-v2-3/blob/main/Notebook.ipynb) <br>
-[Presentation](https://github.com/acollins28/dsc-phase-2-project-v2-3/blob/main/Presentation.pptx)
+[Presentation](https://github.com/acollins28/dsc-phase-2-project-v2-3/blob/main/Presentation.pdf)
 
 
 
