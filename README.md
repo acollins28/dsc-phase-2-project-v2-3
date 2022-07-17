@@ -28,7 +28,7 @@ The most impactful variables were grade, livable area (an engineered feature tha
 
 More importantly, however are the factors that homeowners have control over. The most important variables that homeowners could control were grade, livable area, condition, and year renovated. 
 
-![price%20factors.png](https://github.com/acollins28/dsc-phase-2-project-v2-3/blob/main/Images/price%20factors.png?raw=true)
+![price%20factors.png](https://github.com/acollins28/dsc-phase-2-project-v2-3/blob/main/Images/drivers%20of%20price%20most%20to%20least%20impact.png?raw=true)
 
 ## Conclusions
 
